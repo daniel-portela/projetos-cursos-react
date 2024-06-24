@@ -17,9 +17,31 @@ Tópicos abordados:
 
 [Repositório](projetos/organo-react) | [Ver online](https://organo-react-five-umber.vercel.app/)
 
-## Tecnologias Utilizadas
+Tecnologias utilizadas:
+
 React
 HTML5, CSS3, JavaScript
 Bibliotecas e frameworks específicos aprendidos nos cursos da Alura
+<hr>
 
-Email: <a href="mailto:danielportela.ti@gmail.com">danielportela.ti@gmail.com</a> 
+[Meteora](projetos/react-context-api): Esse projeto foi iniciado com [Vite](https://vitejs.dev/).
+
+Tópicos abordados: 
+
+- Adicionar itens ao carrinho
+- Remover itens do carrinho
+- Visualizar a página do carrinho
+- Deletar itens do carrinho
+
+[Repositório](projetos/react-context-api)
+
+## Técnicas e tecnologias utilizadas
+O projeto Meteora utiliza as seguintes tecnologias e bibliotecas:
+
+- `React` - Framework JavaScript
+- `Vite` - Build tool para desenvolvimento rápido
+- `JavaScript` - Linguagem de programação principal
+- `Context API` - Para gerenciamento de estado
+- `useReducer` - Para controle de estado
+- `useMemo` - Para otimização de desempenho
+- `Bootstrap` - Framework de design e componentes
